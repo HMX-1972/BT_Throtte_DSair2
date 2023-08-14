@@ -10,15 +10,24 @@ It can also be connected to other devices via Bluetooth and WiFi. Please note th
 [Parts list]
 
 M5Stamp C3 (technically suitable)
+
 rotary encoder switch
+
 keyboard (4x4)
+
 OLED panel (0.91 128×32)
+
 Battery case (AA x 4)
+
 Acrylic panel x1 set
+
 8 sets of M3 spacers
+
 M2xL8 flat screw and nuts x 4
+
 cord, header pin
 
+[Wirering]
 [P001_Drawing.pdf](https://github.com/HMX-1972/BT_Throtte_DSair2/files/12340072/P001_Drawing.pdf)
 
 [How to use for the first time]
