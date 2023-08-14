@@ -1,7 +1,7 @@
 # BT_Throtte_DSair2
 
 Bluetooth Keyboard controller using M5 STAMP C3.
-![IMG20221217112718](https://github.com/HMX-1972/BT_Throtte_DSair2/assets/110798387/11b07cd1-3403-4906-9e16-517006c0720e)
+![IMG20221217085856](https://github.com/HMX-1972/BT_Throtte_DSair2/assets/110798387/6e30f0e3-7015-455a-bf1b-a1b3d810f42b)
 
 The standard firmware is a Bluetooth keyboard specification for the DCC model railroad controller DSAir2 (manufactured by Desktop Station), but it can be used with various devices by reorganizing the firmware.
 
@@ -18,6 +18,8 @@ Acrylic panel x1 set
 8 sets of M3 spacers
 M2xL8 flat screw and nuts x 4
 cord, header pin
+
+[P001_Drawing.pdf](https://github.com/HMX-1972/BT_Throtte_DSair2/files/12340072/P001_Drawing.pdf)
 
 [How to use for the first time]
 
