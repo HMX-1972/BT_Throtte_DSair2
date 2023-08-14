@@ -28,7 +28,7 @@ If the track power supply of DSair2 is ON, rotate the dial clockwise and confirm
 
 If the track power is off, enter "99#" from the keyboard. If the line power is turned on, the line is connected.
 
-[how to drive】
+[how to drive]
 
 <speed controle>
 By rotating the dial to the right, an instruction to accelerate is given to DSair2. The faster you turn, the more you accelerate. By rotating the dial to the left, an instruction to decelerate is issued. When the dial is pressed, an instruction to stop is issued.
