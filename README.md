@@ -6,7 +6,7 @@ The standard firmware is a Bluetooth keyboard specification for the DCC model ra
 
 It can also be connected to other devices via Bluetooth and WiFi. Please note that serial communication cannot be used (this is for exclusive use with the keyboard. Firmware can be rewritten via USB).
 
-parts list
+[Parts list]
 
 M5Stamp C3 (technically suitable)
 rotary encoder switch
@@ -17,8 +17,6 @@ Acrylic panel x1 set
 8 sets of M3 spacers
 M2xL8 flat screw and nuts x 4
 cord, header pin
-
-sketch
 
 [How to use for the first time]
 
@@ -32,32 +30,25 @@ If the track power is off, enter "99#" from the keyboard. If the line power is t
 
 [how to drive】
 
-speed controle
-
+<speed controle>
 By rotating the dial to the right, an instruction to accelerate is given to DSair2. The faster you turn, the more you accelerate. By rotating the dial to the left, an instruction to decelerate is issued. When the dial is pressed, an instruction to stop is issued.
 
-Truck power supply
-
+<Truck power supply>
 Enter "99#" from the keyboard to turn the track power on and off.
 
-Direction
-
+<Direction>
 Press the "*" key on the keyboard to reverse the direction of travel. "88#" has the same effect.
 
-Function
-
+<Function>
 By entering a number from 0 to 29 from the keyboard and pressing the "#" or A to D keys, DSair2 will be instructed to turn the function ON or OFF. A to D memorize the numbers, so next time you can press the A to D key to instruct the ON / OFF of the function.
 
-Keyboard input
-
+<Keyboard input>
 If you type a wrong number, enter the appropriate number to make it a three-digit number. Input is reset.
 
 [How to end]
-
 Turn off the power button on the back.
 
 [How to use after the second time]
-
 No pairing operation is required.
 
 [FAQ]
