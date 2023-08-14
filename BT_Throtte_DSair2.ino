@@ -1,9 +1,9 @@
 //////////////////////////////////////////////////////////////////////////////////
 // 
-// BleKeyboard DCC Throttle for DSair2 (R0.90)
+// BleKeyboard DCC Throttle for DSair2 (R1.00)
 // DSair2 >>> https://desktopstation.net/wiki/doku.php/dsair2_ukeng
 // 
-// Copyright(C)'2022 - H.Matsuo
+// Copyright(C)'2022-2023 - H.Matsuo
 // This software is released under the MIT License, see LICENSE.txt
 // 
 // https://github.com/HMX-1972/BT_Throtte_DSair2.git
