@@ -1,6 +1,6 @@
 # BT_Throtte_DSair2
 
-Bule tooth Keyboard controller using M5 STAMP C3.
+Bluetooth Keyboard controller using M5 STAMP C3.
 
 The standard firmware is a Bluetooth keyboard specification for the DCC model railroad controller DSAir2 (manufactured by Desktop Station), but it can be used with various devices by reorganizing the firmware.
 
